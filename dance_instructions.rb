@@ -34,7 +34,6 @@
     puts "Be cool and be snazzy!"
 
   end
-
 starting_stance
 skip_step("left_foot")
 base_footwork
